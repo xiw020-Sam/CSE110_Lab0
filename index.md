@@ -1,19 +1,19 @@
 # An Introducion to Me (Sam)
 Table of Contents:
-[1. As a Programmer](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#1-as-a-programmer)
-[1.1. A brief one](###1.1.-A-brief-one)
-[1.2. Programming history](###1.2.-Programming-history)
-[1.3. Favorite programming language](###1.3.-Favorite-programming-language)
-[1.4. Expectation for the CSE110 course](###1.4.-Expectation-for-the-CSE110-course)
+[1. As a Programmer](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#1-as-a-programmer)  
+[1.1. A brief one](###1.1.-A-brief-one)  
+[1.2. Programming history](###1.2.-Programming-history)  
+[1.3. Favorite programming language](###1.3.-Favorite-programming-language)  
+[1.4. Expectation for the CSE110 course](###1.4.-Expectation-for-the-CSE110-course)  
 
-[2. As a Person](##2.-As-a-Person)
-[2.1. Fun Fact](###2.1.-Fun-facts)
-[2.2. What I like](###2.2.-What-I-like)
-[2.3. Scientific research](###2.3.-Scientific-research)
-[2.3.1. Mutational pattern signature assignment](####2.3.1.-Mutational-pattern-signature-assignment)
-[2.3.2. ACL reconstruction](####2.3.2.-ACL-reconstruction)
-[2.3.3. Knee tissue proteomics](####2.3.3.-Knee-tissue-proteomics)
-[3. In conclusion](##3.-In-conclusion)
+[2. As a Person](##2.-As-a-Person)  
+[2.1. Fun Fact](###2.1.-Fun-facts)  
+[2.2. What I like](###2.2.-What-I-like)  
+[2.3. Scientific research](###2.3.-Scientific-research)  
+[2.3.1. Mutational pattern signature assignment](####2.3.1.-Mutational-pattern-signature-assignment)  
+[2.3.2. ACL reconstruction](####2.3.2.-ACL-reconstruction)  
+[2.3.3. Knee tissue proteomics](####2.3.3.-Knee-tissue-proteomics)  
+[3. In conclusion](##3.-In-conclusion)  
 
 Reading Tasks:
 - [ ] Read my stories as a programmer.
