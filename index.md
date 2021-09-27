@@ -1,6 +1,6 @@
 # An Introducion to Me (Sam)
 Table of Contents:
-[1. As a Programmer](##1.-As-a-Programmer)
+[1. As a Programmer](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#1-as-a-programmer)
 [1.1. A brief one](###1.1.-A-brief-one)
 [1.2. Programming history](###1.2.-Programming-history)
 [1.3. Favorite programming language](###1.3.-Favorite-programming-language)
