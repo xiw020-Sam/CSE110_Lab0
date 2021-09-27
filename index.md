@@ -1,19 +1,19 @@
 # An Introducion to Me (Sam)
-Table of Contents:
+Table of Contents:  
 [1. As a Programmer](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#1-as-a-programmer)  
-[1.1. A brief one](###1.1.-A-brief-one)  
-[1.2. Programming history](###1.2.-Programming-history)  
-[1.3. Favorite programming language](###1.3.-Favorite-programming-language)  
-[1.4. Expectation for the CSE110 course](###1.4.-Expectation-for-the-CSE110-course)  
+[1.1. A brief one](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#11-a-brief-one)  
+[1.2. Programming history](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#12-programming-history)  
+[1.3. Favorite programming language](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#13-favorite-programming-language)  
+[1.4. Expectation for the CSE110 course](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#14-expectation-for-the-cse110-course)  
 
-[2. As a Person](##2.-As-a-Person)  
-[2.1. Fun Fact](###2.1.-Fun-facts)  
-[2.2. What I like](###2.2.-What-I-like)  
-[2.3. Scientific research](###2.3.-Scientific-research)  
-[2.3.1. Mutational pattern signature assignment](####2.3.1.-Mutational-pattern-signature-assignment)  
-[2.3.2. ACL reconstruction](####2.3.2.-ACL-reconstruction)  
-[2.3.3. Knee tissue proteomics](####2.3.3.-Knee-tissue-proteomics)  
-[3. In conclusion](##3.-In-conclusion)  
+[2. As a Person](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#2-as-a-person)  
+[2.1. Fun Fact](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#21-fun-facts)  
+[2.2. What I like](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#22-what-i-like)  
+[2.3. Scientific research](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#23-scientific-research)  
+[2.3.1. Mutational pattern signature assignment](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#231-mutational-pattern-signature-assignment)  
+[2.3.2. ACL reconstruction](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#232-acl-reconstruction)  
+[2.3.3. Knee tissue proteomics](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#233-knee-tissue-proteomics)  
+[3. In conclusion](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#3-in-conclusion)  
 
 Reading Tasks:
 - [ ] Read my stories as a programmer.
