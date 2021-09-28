@@ -1,4 +1,7 @@
 # An Introducion to Me (Sam)
+Here is an image picture of me (my favorite thigns in the world):
+![Pikachu] (https://m.media-amazon.com/images/I/71v1IdgjWXL._SL1443_.jpg)
+
 Table of Contents:  
 [1. As a Programmer](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#1-as-a-programmer)  
 [1.1. A brief one](https://github.com/xiw020-Sam/CSE110_Lab0/blob/VSCodeUI/index.md#11-a-brief-one)  
